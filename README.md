@@ -1,10 +1,5 @@
 <h2 align="left">Olá👋, me chamo Guilherme M Gama.<br><br>Comecei na área de desenvolvimento e programação há alguns anos via cursos da Udemy e Curso em Vídeo. Pretendo me especializar na área o mais rápido possível!<br>Atualmente estou familiarizado com Python, C#, HTML5, CSS3, JS, PHP, Plataforma UiPath, VB .Net. Pretendo continuar os estudos para aprimorar meus conhecimentos.</h2>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermemtgama&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermemtgama&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
