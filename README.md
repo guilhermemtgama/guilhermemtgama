@@ -1,10 +1,7 @@
 <h2 align="left">Olá👋, me chamo Guilherme M Gama.<br><br>Comecei na área de desenvolvimento e programação há alguns anos via cursos da Udemy e Curso em Vídeo. Pretendo me especializar na área o mais rápido possível!<br>Atualmente estou familiarizado com Python, C#, HTML5, CSS3, JS, PHP, Plataforma UiPath, VB .Net. Pretendo continuar os estudos para aprimorar meus conhecimentos.</h2>
 
 <a href="https://github.com/guilhermemtgama/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermemtgama" />
-</a>
-<a href="https://github.com/guilhermemtgama/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermemtgama&layout=compact&langs_count=8&card_width=320" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermemtgama&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </a>
 
 <div align="left">
