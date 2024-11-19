@@ -39,30 +39,4 @@
   </a>
 </div>
 
-name: Generate Snake Game
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # Atualiza a cada 12 horas
-  workflow_dispatch: # Permite execução manual
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate Snake Game from Contributions
-        uses: Platane/snk@v3
-        with:
-          github_user_name: guilhermemtgama
-          outputs: dist/snake.svg
-
-      - name: Push Generated Snake
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
 
