@@ -38,8 +38,3 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guilhermemtgama/guilhermemtgama/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
