@@ -1,16 +1,11 @@
 <h2 align="left">Olá👋, me chamo Guilherme M Gama.<br><br>Comecei na área de desenvolvimento e programação há alguns anos via cursos da Udemy e Curso em Vídeo. Pretendo me especializar na área o mais rápido possível!<br>Atualmente estou familiarizado com Python, C#, HTML5, CSS3, JS, PHP, Plataforma UiPath, VB .Net. Pretendo continuar os estudos para aprimorar meus conhecimentos.</h2>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=guilhermemtgama&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=guilhermemtgama&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermemtgama&show_icons=true" />
-</picture>
+<a href="https://github.com/guilhermemtgama/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermemtgama" />
+</a>
+<a href="https://github.com/guilhermemtgama/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermemtgama&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
